@@ -39,7 +39,6 @@ async function updatedStatus(reservation_id, newStatus) {
 }
 
 module.exports = {
-  //list,
   listByDate,
   listByNumber,
   create,
